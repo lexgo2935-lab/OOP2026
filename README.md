@@ -54,3 +54,25 @@ class Homework1 {
 ```
 <img width="965" height="837" alt="image" src="https://github.com/user-attachments/assets/de8d8af8-821d-465d-b128-c534e73419dc" />
 
+### Homework2
+```java
+public class Homework2 {
+	public static void main(String[] args) {
+		int a = 1;
+		int b = 1;
+		int c;
+		
+		System.out.print(a + " " + b + " ");
+		
+		for (int i = 3; i<=20; i++) {
+			c = a + b;
+			System.out.print(c + " ");
+			
+			a = b;
+			b = c;
+		}
+		
+	}
+}
+```
+![Alt homework22](./images/homework2.png)
