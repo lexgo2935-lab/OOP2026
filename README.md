@@ -52,4 +52,5 @@ class Homework1 {
     }
 }
 ```
-![Alt homework11](./images/homework1.jpg)
+<img width="965" height="837" alt="image" src="https://github.com/user-attachments/assets/de8d8af8-821d-465d-b128-c534e73419dc" />
+
