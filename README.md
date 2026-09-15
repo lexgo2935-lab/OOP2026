@@ -76,3 +76,30 @@ public class Homework2 {
 }
 ```
 ![homework2.png](./image/homework2.png)
+
+### Homework1
+```java
+public class homework3 {
+    public static void main(String[] args) {
+        int a = 1;
+        int b = 1;
+        int c = a + b;
+
+        System.out.println(c + "/" + b + "=" + ((double)c / b));
+
+        a = b;
+        b = c;
+
+        for (int i = 2; i <= 20; i++) {
+            c = a + b;
+            
+            System.out.println(c + "/" + b + "=" + ((double)c / b));
+
+            a = b;
+            b = c;
+        }
+    }
+}
+'''
+![homework3.png](./image/homework3.png)
+
