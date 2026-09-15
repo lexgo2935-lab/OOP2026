@@ -76,4 +76,4 @@ public class Homework2 {
 }
 ```
 <img width="614" height="407" alt="homework2" src="https://github.com/user-attachments/assets/f0616ea3-5053-451f-9c91-afa9cef8261a" />
-![homework2.png](homework2.png)
+![homework2.png](./images/homework2.png)
