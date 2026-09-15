@@ -100,6 +100,6 @@ public class homework3 {
         }
     }
 }
-'''
+```
 ![homework3.png](./image/homework3.png)
 
