@@ -52,7 +52,7 @@ class Homework1 {
     }
 }
 ```
-<img width="965" height="837" alt="image" src="https://github.com/user-attachments/assets/de8d8af8-821d-465d-b128-c534e73419dc" />
+![homework1.png](./image/homework1.png)
 
 ### Homework2
 ```java
