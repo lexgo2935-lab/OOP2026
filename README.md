@@ -77,7 +77,7 @@ public class Homework2 {
 ```
 ![homework2.png](./image/homework2.png)
 
-### Homework1
+### Homework3
 ```java
 public class homework3 {
     public static void main(String[] args) {
