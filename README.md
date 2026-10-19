@@ -116,7 +116,7 @@ public class Homework4 {
     }
 }
 ```
-![homework4.png](./image/homework3.png)
+![homework4.png](./image/homework4.png)
 
 ### Homework5
 ```java
@@ -150,7 +150,7 @@ public class Homework5 {
 }
 
 ```
-![homework5.png](./image/homework3.png)
+![homework5.png](./image/homework5.png)
 
 ### Homework6
 ```java
@@ -172,7 +172,7 @@ public class Homework6 {
     }
 }
 ```
-![homework6.png](./image/homework3.png)
+![homework6.png](./image/homework6.png)
 
 ### Homework7
 ```java
@@ -203,7 +203,7 @@ public class Homework7 {
 }
 
 ```
-![homework7.png](./image/homework3.png)
+![homework7.png](./image/homework7.png)
 
 ### Homework8
 ```java
@@ -225,7 +225,7 @@ public class Homework8 {
     }
 }
 ```
-![homework8.png](./image/homework3.png)
+![homework8.png](./image/homework8.png)
 
 ### Homework9
 ```java
@@ -260,7 +260,7 @@ public class Homework9 {
     }
 }
 ```
-![homework9.png](./image/homework3.png)
+![homework9.png](./image/homework9.png)
 
 ### Homework10
 ```java
@@ -295,7 +295,7 @@ public class Homework10 {
     }
 }
 ```
-![homework10.png](./image/homework3.png)
+![homework10.png](./image/homework10.png)
 
 ### Homework11
 ```java
@@ -352,7 +352,7 @@ public class Homework11 {
     }
 }
 ```
-![homework11.png](./image/homework3.png)
+![homework11.png](./image/homework11.png)
 
 ### Homework13
 ```java
@@ -402,7 +402,7 @@ public class Homework13 {
     }
 }
 ```
-![homework13.png](./image/homework3.png)
+![homework13.png](./image/homework13.png)
 
 ### Homework14
 ```java
@@ -510,4 +510,4 @@ public class NumbersTest {
     }
 }
 ```
-![homework14.png](./image/homework3.png)
+![homework14.png](./image/homework14.png)
